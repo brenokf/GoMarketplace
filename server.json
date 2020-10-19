@@ -2,26 +2,26 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Mouse Gamer",
+      "image_url": "https://s2.glbimg.com/vGbbnFT3wTgeACkIR0cfvyPMH4k=/0x0:695x521/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2017/c/H/J87XM9QkmjaPjfVBmxlg/g502.png",
       "price": 50
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Cadeira Gamer",
+      "image_url": "https://s2.glbimg.com/prqRwAk156zw9YRIz4cAlnZzhVI=/0x0:1000x1000/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/z/e/KupBWjTGChxd53SF7U1w/315624z.jpg",
       "price": 60
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Headset Gamer",
+      "image_url": "https://cdn.awsli.com.br/600x450/999/999984/produto/61329541/29dc184bb6.jpg",
       "price": 70
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Teclado Gamer",
+      "image_url": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/peripherals/input_devices/dell/keyboards/aw510k/gray/ng/keyboard-alienware-aw510k-campaign-hero-504x350-ng.psd?fmt=jpg",
       "price": 80
     }
   ]
